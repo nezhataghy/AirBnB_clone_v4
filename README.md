@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Ehab Elsayed - [Github](https://github.com/ehabsmh) / [LinkedIn](https://www.linkedin.com/in/dev-ehabelsayed/)  
-Nezha Taghy - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Nezha Taghy - [Github](https://github.com/nezhataghy) / [Twitter](https://twitter.com/NezhaAicha)
 
 Second part of Airbnb: Joann Vuong
 ## License
